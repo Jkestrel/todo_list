@@ -56,3 +56,10 @@ Run : npm run dev
 After running the above command, open your browser and go to the link specified (commonly http://localhost:5173/)
 
 
+## Github Repo Link : https://github.com/Jkestrel/todo_list
+
+## Github : https://github.com/Jkestrel
+
+
+
+
